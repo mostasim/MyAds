@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyAds</string>
+    <string name="example_ad_text">My First Ad is here</string>
+    <string name="admob_app_id">ca-app-pub-5253634837620125~7985758548</string>
+    <string name="banner_ad_unit">ca-app-pub-5253634837620125/6748574788</string>
+    <string name="test_banner_ad_unit">ca-app-pub-3940256099942544/6300978111</string>
+
+</resources>
